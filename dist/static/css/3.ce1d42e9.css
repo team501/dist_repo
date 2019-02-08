@@ -1,0 +1,88 @@
+.chartjs-render-monitor {
+	height: 90px !important;
+}
+.chuteHeader{color: #CD5C5C; font-size: 20px; padding-top: 20px;}
+.chuteHeader > a > span {color: #000;}
+.chuteHeader1 {
+	color: black !important;
+	font-size: 15px;
+	padding-top: 100px;
+	padding-left: 20px; 
+}
+
+.chuteHeader2 {
+	color: #870038;
+	font-size: 20px;
+	padding: 15px 0px 0px 20px;
+}
+
+.image {
+	height: 23px;
+	width: 30px;
+	padding-right: 10px;
+}
+
+.cheader {
+	color: black !important;
+	font-size: 15px !important;
+	background-color: white;
+}
+
+.chuteTable {
+	width: 100%;
+	padding: 0px 0px 20px 20px;
+}
+.chute-text-bold{font-weight:bold;}
+.arrow-black{color:#000; padding-right:5px;}
+.tableDiv {
+	background-color: white;
+	width: 98%;
+	margin: 15px 20px 15px 20px;
+	border: #E7EBE8 2.5px solid;
+}
+
+.chuteBody {
+	border: 'white 1px solid';
+	background-color: '#E7EBE8 !important';
+}
+
+.table tbody tr {
+	border: 3px solid white !important;
+	background-color: #E7EBE8 !important;
+} 
+.crowH th{white-space:nowrap; padding:10px;}
+.assigned{    width: 50px;
+    height: 50px;
+    margin-top: 5px;}
+    
+    
+    .chute-bottom-grid{ height:85px; background-color:#f4f4f4; margin-top:15px;}
+
+.successLabel {
+    background-color: #d0021b !important;
+    border-radius: unset;
+}
+
+.warningLabel {
+    background-color: #7ed321 !important;
+    border-radius: unset;
+}
+
+.dangerLabel {
+    background-color: #f8e71c !important;
+    border-radius: unset;
+}
+
+.defaultLabel {
+    background-color: #9f9c9c !important;
+    border-radius: unset;
+}
+.table-outer{min-height:550px; }
+.table-outer-induction{min-height:370px;}
+.success-wev-status{background-color: #5cb85c !important;
+    border-radius: unset;}
+    
+    .warning-wev-status{background-color: #f0ad4e !important;
+    border-radius: unset;}
+    
+    .danger-status{background-color: #d9534f !important;}
